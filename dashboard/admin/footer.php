@@ -1,0 +1,1 @@
+<footer class="main"> <strong>Cronos Gym | Copyright 2017© Todos los Derechos Reservados </strong></footer>

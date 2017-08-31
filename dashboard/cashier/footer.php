@@ -1,0 +1,1 @@
+<footer class="main"> &copy; 2015 <strong>Platea21's Gym </strong></footer>
